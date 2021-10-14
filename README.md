@@ -11,7 +11,9 @@
 </div>
   
 ##
-### Atualmente curso o primeiro semestre de engenharia elétrica, na Universidade Federal de Minas Gerais (UFMG)
+### Atualmente curso o segundo semestre de engenharia elétrica, na Universidade Federal de Minas Gerais (UFMG)
+ 
+### Minha paixão sempre foi a área da ciencia de dados, e como na UFMG não existe a engenharia da computação eu estudo Engenharia elétrica com ênfase em computação que é o equivalente ao curso que eu citei antes na minha universidade.
 
 ### No momento não estou trabalhando e estou a procura de um estágio na área de ciência de dados.
 
