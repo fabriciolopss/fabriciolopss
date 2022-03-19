@@ -6,7 +6,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciolopss&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <h1 align="center">Hi 👋, I'm Fabricio Lopes</h1>
-<h3 align="center">A passionate backend programmer from Brazil</h3>
+<h3 align="center">A passionate project of FullStack programmer from Brazil</h3>
 
 - 🌱 I’m currently learning **Frontend(html, css, js...), django, numpy...**
 
