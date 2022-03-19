@@ -8,9 +8,9 @@
 <h1 align="center">Hi 👋, I'm Fabricio Lopes</h1>
 <h3 align="center">A passionate backend programmer from Brazil</h3>
 
-- 🌱 I’m currently learning **Django, C++, Numpy...**
+- 🌱 I’m currently learning **Frontend(html, css, js...), django, numpy...**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python or C++**
 
 - 📫 How to reach me **fabricio.lopss00@gmail.com**
 
