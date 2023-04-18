@@ -5,12 +5,11 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=fabriciolopss&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciolopss&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
-<h1 align="center">Hi 👋, I'm Fabricio Lopes</h1>
 <h3 align="center">A passionate project of FullStack programmer from Brazil</h3>
 
-- 🌱 I’m currently learning **Frontend(html, css, js...), django, numpy...**
+- 🌱 I’m currently learning **React, tensorFlow, numpy...**
 
-- 💬 Ask me about **Python or C++**
+- 💬 Ask me about **Python, FrontEnd( HTML, CSS, JS) or C++**
 
 - 📫 How to reach me **fabricio.lopss00@gmail.com**
 
